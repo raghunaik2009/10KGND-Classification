@@ -20,7 +20,7 @@ using http://127.0.0.1:5000/
  # 2. running docker image
     docker run -p 5000:5000 -it <image_name>:tag
     E.g. docker run -p 5000:5000 -it germantext-classification:v11
- # Open below link in browser
+ # 3. Open below link in browser
     using http://localhost:5000/
 
 ## Perspectives
