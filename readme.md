@@ -23,7 +23,6 @@ using http://127.0.0.1:5000/
  # Open below link in browser
     using http://localhost:5000/
 
-http://127.0.0.1:5000/
 ## Perspectives
 1. Train deep learning models (BERT, LSTM) and enhance model performance
 2. add language detector to the pipeline to only accept german language
